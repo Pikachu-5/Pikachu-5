@@ -11,8 +11,6 @@ I like making cool and fun things related things!
 
 - **🏁 Podium Predictor** — Predicting top 3 F1 race finishes using GBR, FastF1 API & pandas and also experimenting with **Gemma** to tokenize and answer basic race-related language queries.
 - **🎙️ Voice Changer** — For no reason. Just cool.
-- **🧠 Daily LeetCode** — Focused on:
-  - DP, DFS/BFS, Trees, Linked Lists, Enumeration
 
 ---
 
