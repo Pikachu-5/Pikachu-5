@@ -1,6 +1,4 @@
-I like making cool and fun things related things!
-
-- 🧠 AI/ML Adventurer
+- 🧠 AI/ML
 - 🏁 F1 fan
 - ✈️ Aviation geek
 - 🎮 Love gaming!
@@ -10,7 +8,6 @@ I like making cool and fun things related things!
 ### 🔨 Currently Working On
 
 - **🏁 Podium Predictor** — Predicting top 3 F1 race finishes using GBR, FastF1 API & pandas and also experimenting with **Gemma** to tokenize and answer basic race-related language queries.
-- **🎙️ Voice Changer** — For no reason. Just cool.
 
 ---
 
@@ -22,7 +19,7 @@ I like making cool and fun things related things!
 
 ---
 
-### 📦 Tech Loadout
+### 📦 Skills
 
 Languages:    Python, C, C++, Java, C#, SQL, JavaScript
 Frontend:     HTML, CSS, ReactJS
