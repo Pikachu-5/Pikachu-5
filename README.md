@@ -1,27 +1,25 @@
-- 🧠 AI/ML
-- 🏁 F1 fan
-- ✈️ Aviation geek
-- 🎮 Love gaming!
+-  AI/ML
+-  F1 fan
+-  Love Games!
+---
+
+### Currently Working On
+
+- **F1 Podium Predictor** — Predicting top 3 F1 race finishes using GBR, FastF1 API & pandas and also experimenting with **Gemma** to tokenize and answer basic race-related language queries.
 
 ---
 
-### 🔨 Currently Working On
+### Worked On Projects
 
-- **🏁 Podium Predictor** — Predicting top 3 F1 race finishes using GBR, FastF1 API & pandas and also experimenting with **Gemma** to tokenize and answer basic race-related language queries.
-
----
-
-### 🛠️ Worked On Projects
-
-- 🔐 **Password Manager** — A secure, local credential manager with encryption.
-- 🧠 **CIFAR-10 Image Classifier** — Trained a convolutional neural net to classify images into 10 classes using TensorFlow.
-- 🤖 **AI Agent with RAG** — Built an AI agent with Retrieval-Augmented Generation to answer questions based on custom documents.
+-  **Password Manager** — A secure, local credential manager with encryption.
+-  **CIFAR-10 Image Classifier** — Trained a convolutional neural net to classify images into 10 classes using TensorFlow.
+-  **AI Agent with RAG** — Built an AI agent with Retrieval-Augmented Generation to answer questions based on custom documents.
 
 ---
 
-### 📦 Skills
+### Skills
 
-Languages:    Python, C, C++, Java, C#, SQL, JavaScript
+Languages:    Python, C, C++, Java, C#(Learning), SQL, JavaScript
 Frontend:     HTML, CSS, ReactJS
 Frameworks:   .NET (learning), LangChain, Streamlit, FastAPI
 ML Tools:     TensorFlow, PyTorch, Scikit-learn, XGBoost, Transformers
