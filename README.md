@@ -13,9 +13,9 @@ Also experimenting with **Gemma 3.0** for natural-language race insights (e.g., 
 
 ---
 
-## 🏗️ Featured Projects
+## Featured Projects
 
-### ⚡ **SwiftSearch — Hybrid Semantic + Keyword Search Engine (Rust + Python)**
+### **SwiftSearch — Hybrid Semantic + Keyword Search Engine (Rust + Python)**
 A lightning-fast local search engine using:
 - **Tantivy** for full-text indexing  
 - **ANN-based embedding store** for semantic search  
@@ -23,30 +23,30 @@ A lightning-fast local search engine using:
 - ~1GB vector store indexing ~100GB of files  
 - Multi-threaded preprocessing + memory mapping  
 
-### 🚇 **GTFS Metro Network Visualizer (React, MapboxGL, SQL.js)**
+### **GTFS Metro Network Visualizer (React, MapboxGL, SQL.js)**
 Offline transit system that:
 - Loads GTFS schedule + real-time data  
 - Renders 500+ route points  
 - Shows live positions, next stations, trajectory playback  
 - 80% faster data recomputation using optimized caching  
 
-### 🩺 **Multimodal Pneumonia Severity Estimator (CNN-ViT + Grad-CAM)**
+### **Multimodal Pneumonia Severity Estimator (CNN-ViT + Grad-CAM)**
 Hybrid CNN-ViT model for severity grading (“Mild/Moderate/Severe”).  
 Includes full preprocessing, proxy labeling, Grad-CAM explanations.  
 **Under review at AIHC 2025.**
 
-### 🔐 **Password Manager (Python)**
+### **Password Manager (Python)**
 Local credential manager with encryption, salting, hashing, and secure storage.
 
-### 🧠 **AI Agent with RAG (LangChain)**
+### **AI Agent with RAG (LangChain)**
 Custom document Q&A system using vector embeddings, FAISS, and LLMs.
 
-### 🖼️ **CIFAR-10 Image Classifier (TensorFlow)**
+### **CIFAR-10 Image Classifier (TensorFlow)**
 CNN for 10-class image recognition with augmentation + visualization.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### **Languages**
 Python • Rust • JavaScript (ES6+) • Java • C • C++ • C# (learning) • SQL
